@@ -1,17 +1,22 @@
 # MachineLearningBibliography
 
-Frameworks: Keras, Tensorflow, Pytorch
+Frameworks: Keras, Tensorflow, Pytorch, fastai
 
-Data visualization: Plotly, Matplotlib
+Data visualization: Plotly, Matplotlib, Seaborn
 
-Here is the list of my favorite books related to Machine Learning
+Here is the list of my favorite textbooks related to Machine Learning
 
 General Machine Learning:
 
 Kevin Murphy - Machine Learning, A Probabilistic Perspective
 
 Deep learning:
+
 Ian Goodfellow - Deep Learning
+
+Reinforcement learning:
+
+Richard S. Sutton - Reinforcement learning, An Introduction
 
 Online courses:
 
