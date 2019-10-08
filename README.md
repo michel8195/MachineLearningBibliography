@@ -22,7 +22,7 @@ Reinforcement learning:
 
 Natural language processing:
 
-[Natural language processing with deep learning - Stanford cs224n](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z\)
+[Natural language processing with deep learning - Stanford cs224n](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 [Natural language understanding - Stanford cs224u](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 
