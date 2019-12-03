@@ -25,7 +25,7 @@ Reinforcement learning:
 [Reinforcement learning course - David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 
-Natural language processing:
+**Natural language processing**:
 
 [Natural language processing with deep learning - Stanford cs224n](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
