@@ -1,6 +1,6 @@
 # MachineLearningBibliography
 
-Frameworks: Keras, Tensorflow, Pytorch, fastai
+**Frameworks**: Keras, Tensorflow, Pytorch, fastai
 
 Data visualization: Plotly, Matplotlib, Seaborn
 
